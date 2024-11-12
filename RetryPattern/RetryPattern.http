@@ -1,0 +1,6 @@
+@RetryPattern_HostAddress = http://localhost:5029
+
+GET {{RetryPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
